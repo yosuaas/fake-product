@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "exception": null,
+    "enMessage": null,
+    "idMessage": null,
+    "object": [
+        {
+            "Date": "31-JAN-2019",
+            "Fund_Code": "PRODJUN",
+            "Fund_Name": "PRODCT COBA JUN",
+            "NAB_Per_Unit": 2487.09
+        },
+        {
+            "Date": "1-FEB-2019",
+            "Fund_Code": "PRODJUN",
+            "Fund_Name": "PRODCT COBA JUN",
+            "NAB_Per_Unit": 2488.09
+        },
+        {
+            "Date": "2-FEB-2019",
+            "Fund_Code": "PRODJUN",
+            "Fund_Name": "PRODCT COBA JUN",
+            "NAB_Per_Unit": 2489.09
+        }
+    ]
+}
